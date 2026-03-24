@@ -2,9 +2,5 @@ print("helloword");
 print("222");
 print("333");
 print(333);
-
 print(324);
-print(325）
-print （33）
-print(326）
-
+print(325);
