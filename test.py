@@ -10,10 +10,5 @@ print(328);
 print(329);
 print （311）；
 
-print （310）；
-<<<<<<< Updated upstream
-print（316）
-=======
-print（313）；
->>>>>>> Stashed changes
+
 
